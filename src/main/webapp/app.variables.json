@@ -82,6 +82,7 @@
 		"_id": "wm-getAppInfo-wm.DeviceVariable-1444134876543"
 	},
 	"HrdbDepartmentData": {
+		"name": "HrdbDepartmentData",
 		"type": "Department",
 		"isList": true,
 		"owner": "App",
@@ -263,10 +264,10 @@
 			"entityName": "Department",
 			"fullyQualifiedName": "com.hrdb.Department",
 			"tableType": "TABLE"
-		},
-		"name": "HrdbDepartmentData"
+		}
 	},
 	"HrdbEmployeeData": {
+		"name": "HrdbEmployeeData",
 		"type": "Employee",
 		"isList": true,
 		"owner": "App",
@@ -1083,10 +1084,10 @@
 			"entityName": "Employee",
 			"fullyQualifiedName": "com.hrdb.Employee",
 			"tableType": "TABLE"
-		},
-		"name": "HrdbEmployeeData"
+		}
 	},
 	"HrdbUserData": {
+		"name": "HrdbUserData",
 		"type": "User",
 		"isList": true,
 		"owner": "App",
@@ -1198,10 +1199,10 @@
 			"entityName": "User",
 			"fullyQualifiedName": "com.hrdb.User",
 			"tableType": "TABLE"
-		},
-		"name": "HrdbUserData"
+		}
 	},
 	"HrdbVacationData": {
+		"name": "HrdbVacationData",
 		"type": "Vacation",
 		"isList": true,
 		"owner": "App",
@@ -1583,10 +1584,10 @@
 			"entityName": "Vacation",
 			"fullyQualifiedName": "com.hrdb.Vacation",
 			"tableType": "TABLE"
-		},
-		"name": "HrdbVacationData"
+		}
 	},
 	"DBTable1Data": {
+		"name": "DBTable1Data",
 		"type": "Table1",
 		"isList": true,
 		"owner": "App",
@@ -1670,10 +1671,10 @@
 			"entityName": "Table1",
 			"fullyQualifiedName": "com.testissue.db.Table1",
 			"tableType": "TABLE"
-		},
-		"name": "DBTable1Data"
+		}
 	},
 	"DBTable2Data": {
+		"name": "DBTable2Data",
 		"type": "Table2",
 		"isList": true,
 		"owner": "App",
@@ -1803,7 +1804,6 @@
 				"package": "com.DB.Table2",
 				"watchOn": "DBTable1Data"
 			}
-		],
-		"name": "DBTable2Data"
+		]
 	}
 }
